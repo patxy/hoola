@@ -1,8 +1,14 @@
 import java.util.Scanner;
-
-
+/**
+ * 
+ * @author Aitor
+ *
+ */
 public class mundo {
-
+/**
+ * 
+ * @param args
+ */
 	public static void main(String[] args) {
 		System.out.println("Hola mundo");
 		int suma;
@@ -11,7 +17,7 @@ public class mundo {
 		suma=2+2;
 		System.out.println(suma);
 		Scanner t=new Scanner(System.in);
-		System.out.println("escribe dos numeros q  quieras multiplicar");
+		System.out.println("escribe dos numeros q quieras multiplicar");
 		cosa1=t.nextInt();
 		cosa2=t.nextInt();
 		int multiplicacion;
