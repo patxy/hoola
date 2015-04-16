@@ -14,7 +14,7 @@ public class mundo {
 		int suma;
 		int cosa1;
 		int cosa2;
-		suma=2+2;
+		suma=0;
 		System.out.println(suma);
 		Scanner t=new Scanner(System.in);
 		System.out.println("escribe dos numeros q quieras multiplicar");
